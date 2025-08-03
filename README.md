@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+👋%2C+I'm+Yaswanth;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
 </h1>
 
-<h3 align="center">A 3rd year CSE(AI&ML) student at Vaagdevi College of Engineering.<br> Transforming ideas into innovation.</h3>
+<h3 align="center">A 3rd year CSE(AI&ML) student at Vaagdevi College of Engineering.<br> Developing Product based Projects</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/his-office-guy-programmer-sits-front-computer-screen-to-write-software-code-concept-ai-generative-his-270562642.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MYG-1107&label=Profile%20views&color=0e75b6&style=flat" alt="bdeekshith066" /> </p>
