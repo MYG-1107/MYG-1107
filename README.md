@@ -16,7 +16,7 @@
 
   <p>👯 Looking to Collaborate On: Developing Data Models and LLMs</p>
 
-  <p>📫 How to Reach Me: <a href="mallarapuyaswanth05@gmail.com">mallarapuyaswanth05@gmail.com</a></p>
+  <p>📫 How to Reach Me: <a href="mailto:mallarapuyaswanth05@gmail.com" style="text-decoration: none;">mallarapuyaswanth05@gmail.com</a></p>
   <br>
 </div>
 
