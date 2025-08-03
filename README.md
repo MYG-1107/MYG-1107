@@ -6,7 +6,7 @@
 <h3 align="center">A 3rd year CSE(AI&ML) student at Vaagdevi College of Engineering.<br> Developing Product based Projects</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/his-office-guy-programmer-sits-front-computer-screen-to-write-software-code-concept-ai-generative-his-270562642.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MYG-1107&label=Profile%20views&color=0e75b6&style=flat" alt="bdeekshith066" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MYG-1107&label=Profile%20views&color=0e75b6&style=flat" alt="Mallarapu Yaswanth" /> </p>
 
 <!-- New section added below Profile Views -->
 <div style="float: left; width: 50%; margin-right: 20px;">
