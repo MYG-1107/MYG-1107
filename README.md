@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">A 3rd year CSE(AI&ML) student at Vaagdevi College of Engineering.<br><BR> Developing Product based Projects</h3>
-<img align="right" alt="coding" width="400" src="https://photos.fife.usercontent.google.com/pw/AP1GczMLhw4Lr0WQS-T-xzZGSVS_wnYSoez7f76pnoLsIzQtwlJMjI69AKNo1A=w1778-h913-s-no-gm?authuser=0?w=992">
+<img align="right" alt="coding" width="400" src="https://photos.app.goo.gl/ykAM4Mdf3r9MN5kg9?w=992">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MYG-1107&label=Profile%20views&color=0e75b6&style=flat" alt="Mallarapu Yaswanth" /> </p>
 
