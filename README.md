@@ -12,7 +12,7 @@
 <div style="float: left; width: 50%; margin-right: 20px;">
   <p>🔭 Currently Working as Administrative Manager SITER Academy, Norway.</p>
 
-  <p>🌱 Currently Learning: Microsoft Azure</p>
+  <p>🌱 Currently Learning: Microsoft Azure, C#</p>
 
   <p>👯 Looking to Collaborate On: Developing Data Models and LLMs</p>
 
