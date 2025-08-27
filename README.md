@@ -10,7 +10,7 @@
 
 <!-- New section added below Profile Views -->
 <div style="float: left; width: 50%; margin-right: 20px;">
-  <p>🔭 Currently Working as <b>Freelancer</b> - Administrative Manager Cum Full Stack Developer at SITER Academy, Norway.</p>
+  <p>🔭 Currently Working as <b>Freelancer</b> - Software Engineer at SITER Academy, Norway.</p>
 
   <p>🌱 Currently Learning: Microsoft Azure, C#</p>
 
