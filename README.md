@@ -14,7 +14,7 @@
 
   <p>🌱 Currently Learning: Microsoft Azure, C#</p>
 
-  <p>👯 Looking to Collaborate On: Developing Big Data Data Models and LLMs</p>
+  <p>👯 Looking to Collaborate On: Developing Big Data Models and LLMs</p>
 
   <p>📫 How to Reach Me: <a href="mailto:mallarapuyaswanth05@gmail.com" style="text-decoration: none;">mallarapuyaswanth05@gmail.com</a></p>
   <br>
