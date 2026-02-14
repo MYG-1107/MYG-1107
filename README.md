@@ -1,40 +1,44 @@
-<!-- ===================== EUROPEAN MINIMAL PORTFOLIO ===================== -->
+<!-- ================== EUROPEAN EXECUTIVE PORTFOLIO ================== -->
 
-<h1 align="center" style="font-weight:600; letter-spacing:1px;">
-  Yaswanth Mallarapu
+<h1 align="center" style="font-weight:500; letter-spacing:2px;">
+  YASWANTH MALLARAPU
 </h1>
 
-<p align="center" style="color:#6c757d; font-size:16px;">
-  AI & ML Engineer | Product Developer | Software Consultant
+<p align="center" style="font-size:15px; color:#6b7280; letter-spacing:1px;">
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING ENGINEER
 </p>
 
-<hr style="width:60%; margin:auto; border:0.5px solid #e0e0e0;">
+<p align="center" style="font-size:14px; color:#9ca3af;">
+  Software Consultant · Product Architect · Freelance Engineer
+</p>
+
+<br>
+
+<hr style="width:70%; border:0.5px solid #e5e7eb;">
 
 <br>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-### Profile
+### PROFESSIONAL PROFILE
 
-- 🎓 B.Tech – CSE (AI & ML)  
-- 🏫 Vaagdevi College of Engineering  
-- 💼 Freelance Software Engineer – SITER Academy (Norway)  
-- 🌍 Open to European collaborations  
-- 📍 India  
+Engineer focused on designing scalable AI systems and modern backend infrastructures.  
+Currently collaborating internationally while developing structured, production-grade software solutions.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="4%"></td>
 
-### Focus Areas
+<td width="48%" valign="top">
 
-- Artificial Intelligence Systems  
-- Large Language Models  
-- Big Data Engineering  
-- Backend Architecture  
-- Cloud (Microsoft Azure)  
+### CURRENT ENGAGEMENT
+
+Freelance Software Engineer  
+SITER Academy — Norway  
+
+Focus: AI systems, backend architecture, cloud engineering.
 
 </td>
 </tr>
@@ -44,40 +48,52 @@
 
 ---
 
-## Technology Stack
+## EXPERTISE
+
+Artificial Intelligence Systems  
+Large Language Model Integration  
+Big Data Engineering  
+Backend Development (Node.js)  
+Cloud Architecture (Microsoft Azure)  
+System Design & Product Engineering  
+
+---
+
+## TECHNOLOGIES
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,nodejs,css,mysql,azure,cs,figma" />
+  <img src="https://skillicons.dev/icons?i=c,js,nodejs,mysql,azure,cs,figma&perline=7" />
 </p>
 
 ---
 
-## GitHub Analytics
+## ENGINEERING ACTIVITY
 
 <p align="center">
-  <img width="48%" 
-  src="https://github-readme-stats.vercel.app/api?username=MYG-1107&show_icons=true&hide_border=true&title_color=1f2933&icon_color=2563eb&text_color=4b5563&bg_color=ffffff" />
+  <img width="47%" 
+  src="https://github-readme-stats.vercel.app/api?username=MYG-1107&show_icons=true&hide_border=true&title_color=111827&icon_color=1f2937&text_color=374151&bg_color=ffffff" />
 
-  <img width="48%" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYG-1107&layout=compact&hide_border=true&title_color=1f2933&text_color=4b5563&bg_color=ffffff" />
+  <img width="47%" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYG-1107&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff" />
 </p>
 
 <p align="center">
-  <img width="60%" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=MYG-1107&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=1f2933&background=ffffff&sideLabels=4b5563&dates=4b5563" />
+  <img width="55%" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=MYG-1107&hide_border=true&ring=111827&fire=374151&currStreakLabel=111827&background=ffffff&sideLabels=6b7280&dates=6b7280" />
 </p>
 
 ---
 
-## Contact
+## CONTACT
 
-<p align="center">
-  📧 mallarapuyaswanth05@gmail.com &nbsp; | &nbsp;
-  🔗 <a href="https://www.linkedin.com/in/my2004/">LinkedIn</a>
+<p align="center" style="font-size:14px;">
+  Email · mallarapuyaswanth05@gmail.com  
+  <br>
+  LinkedIn · https://www.linkedin.com/in/my2004/
 </p>
 
 <br>
 
-<p align="center" style="color:#9ca3af; font-size:13px;">
-  Building scalable AI systems with structured engineering principles.
+<p align="center" style="font-size:12px; color:#9ca3af; letter-spacing:1px;">
+  Designing structured AI systems with European engineering standards.
 </p>
