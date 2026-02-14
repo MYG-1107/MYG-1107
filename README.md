@@ -1,41 +1,62 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+👋%2C+I'm+Yaswanth;Welcome+to+my+GitHub+profile!" alt="Yaswanth is Good" />
+<!-- ================= HEADER ================= -->
+
+<h1 align="center" style="font-weight:600;">
+  Yaswanth Mallarapu
 </h1>
 
-<h3 align="center">A 3rd year CSE(AI&ML) student at Vaagdevi College of Engineering.<br><BR> Developing Product based Projects</h3>
-<img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/t/mallarapuyaswanth-396087578.jpg?w=992">
+<p align="center" style="font-size:18px; color:#555;">
+  AI & ML Engineer • Product Developer • Freelancer
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MYG-1107&label=Profile%20views&color=0e75b6&style=flat" alt="Mallarapu Yaswanth" /> </p>
+<p align="center">
+  3rd Year CSE (AI & ML) Student <br>
+  Vaagdevi College of Engineering
+</p>
 
-<!-- New section added below Profile Views -->
-<div style="float: left; width: 50%; margin-right: 20px;">
-  <p>🔭 Currently Working as <b>Freelancer</b> - Software Engineer at SITER Academy, Norway.</p>
+<br>
 
-  <p>🌱 Currently Learning: Microsoft Azure, C#</p>
+<!-- ================= ABOUT ================= -->
 
-  <p>👯 Looking to Collaborate On: Developing Big Data Models and LLMs</p>
+## About Me
 
-  <p>📫 How to Reach Me: <a href="mailto:mallarapuyaswanth05@gmail.com" style="text-decoration: none;">mallarapuyaswanth05@gmail.com</a></p>
-  <br>
-</div>
+- 🔭 Currently working as **Freelance Software Engineer** at **SITER Academy, Norway**
+- 🌱 Learning **Microsoft Azure** & **C#**
+- 🤝 Open to collaboration on **Big Data Systems & LLM Applications**
+- 📩 Contact: **mallarapuyaswanth05@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/my2004](https://www.linkedin.com/in/my2004/)
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+<!-- ================= TECH STACK ================= -->
+
+## Tech Stack
+
 <p align="left">
 
-<a href="https://www.linkedin.com/in/my2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mallarapu Yaswanth" height="30" width="40" /></a>
-<!--
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=c,css,js,nodejs,mysql,figma,azure,cs" />
+
 </p>
--->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MYG-1107" alt="Mallarapu Yaswanth" /></a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MYG-1107&show_icons=true&locale=en&layout=compact" alt="Mallarapu Yaswanth" /></p>
+<!-- ================= GITHUB STATS ================= -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MYG-1107&show_icons=true&locale=en" alt="Mallarapu Yaswanth" /></p>
+## GitHub Insights
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MYG-1107&" alt="Mallarapu Yaswanth" /></p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MYG-1107&show_icons=true&hide_border=true&title_color=2E3440&icon_color=5E81AC&text_color=4C566A&bg_color=ffffff" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYG-1107&layout=compact&hide_border=true&title_color=2E3440&text_color=4C566A&bg_color=ffffff" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MYG-1107&hide_border=true&ring=5E81AC&fire=5E81AC&currStreakLabel=2E3440&background=ffffff&sideLabels=4C566A&dates=4C566A" />
+</p>
+
+<br>
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center" style="color:#777;">
+  Building scalable AI products with clean architecture & modern design.
+</p>
