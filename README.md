@@ -1,62 +1,83 @@
-<!-- ================= HEADER ================= -->
+<!-- ===================== EUROPEAN MINIMAL PORTFOLIO ===================== -->
 
-<h1 align="center" style="font-weight:600;">
+<h1 align="center" style="font-weight:600; letter-spacing:1px;">
   Yaswanth Mallarapu
 </h1>
 
-<p align="center" style="font-size:18px; color:#555;">
-  AI & ML Engineer • Product Developer • Freelancer
+<p align="center" style="color:#6c757d; font-size:16px;">
+  AI & ML Engineer | Product Developer | Software Consultant
+</p>
+
+<hr style="width:60%; margin:auto; border:0.5px solid #e0e0e0;">
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Profile
+
+- 🎓 B.Tech – CSE (AI & ML)  
+- 🏫 Vaagdevi College of Engineering  
+- 💼 Freelance Software Engineer – SITER Academy (Norway)  
+- 🌍 Open to European collaborations  
+- 📍 India  
+
+</td>
+
+<td width="50%" valign="top">
+
+### Focus Areas
+
+- Artificial Intelligence Systems  
+- Large Language Models  
+- Big Data Engineering  
+- Backend Architecture  
+- Cloud (Microsoft Azure)  
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,js,nodejs,css,mysql,azure,cs,figma" />
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img width="48%" 
+  src="https://github-readme-stats.vercel.app/api?username=MYG-1107&show_icons=true&hide_border=true&title_color=1f2933&icon_color=2563eb&text_color=4b5563&bg_color=ffffff" />
+
+  <img width="48%" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYG-1107&layout=compact&hide_border=true&title_color=1f2933&text_color=4b5563&bg_color=ffffff" />
 </p>
 
 <p align="center">
-  3rd Year CSE (AI & ML) Student <br>
-  Vaagdevi College of Engineering
+  <img width="60%" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=MYG-1107&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=1f2933&background=ffffff&sideLabels=4b5563&dates=4b5563" />
 </p>
 
-<br>
+---
 
-<!-- ================= ABOUT ================= -->
-
-## About Me
-
-- 🔭 Currently working as **Freelance Software Engineer** at **SITER Academy, Norway**
-- 🌱 Learning **Microsoft Azure** & **C#**
-- 🤝 Open to collaboration on **Big Data Systems & LLM Applications**
-- 📩 Contact: **mallarapuyaswanth05@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/my2004](https://www.linkedin.com/in/my2004/)
-
-<br>
-
-<!-- ================= TECH STACK ================= -->
-
-## Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=c,css,js,nodejs,mysql,figma,azure,cs" />
-
-</p>
-
-<br>
-
-<!-- ================= GITHUB STATS ================= -->
-
-## GitHub Insights
+## Contact
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MYG-1107&show_icons=true&hide_border=true&title_color=2E3440&icon_color=5E81AC&text_color=4C566A&bg_color=ffffff" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYG-1107&layout=compact&hide_border=true&title_color=2E3440&text_color=4C566A&bg_color=ffffff" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MYG-1107&hide_border=true&ring=5E81AC&fire=5E81AC&currStreakLabel=2E3440&background=ffffff&sideLabels=4C566A&dates=4C566A" />
+  📧 mallarapuyaswanth05@gmail.com &nbsp; | &nbsp;
+  🔗 <a href="https://www.linkedin.com/in/my2004/">LinkedIn</a>
 </p>
 
 <br>
 
-<!-- ================= FOOTER ================= -->
-
-<p align="center" style="color:#777;">
-  Building scalable AI products with clean architecture & modern design.
+<p align="center" style="color:#9ca3af; font-size:13px;">
+  Building scalable AI systems with structured engineering principles.
 </p>
