@@ -15,7 +15,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3800&pause=800&color=1D4ED8&center=true&vCenter=true&width=480&lines=Building+scalable+AI+systems;LLM+integration+%26+modern+backends;Currently+working+in+European+Company" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3800&pause=800&color=1D4ED8&center=true&vCenter=true&width=480&lines=Building+scalable+AI+systems;LLM+integration+%26+modern+backends;Currently+working+in+Norway+Company" 
     alt="Typing SVG" 
   />
 </div>
