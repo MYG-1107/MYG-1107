@@ -94,9 +94,9 @@ Hyderabad, India
 </div>
 
 <br>
-Best Regards,
+Best Regards, <br>
 Yaswanth M
----
+
 
 <!-- Optional: add some spacing at the bottom -->
 <br><br>
