@@ -32,7 +32,7 @@ Self-motivated **Machine Learning & AI Engineer** specializing in **FastAPI micr
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,js,ts,fastapi,django,dotnet,react,docker,azure,aws,mongodb,postgres,linux,git,cpp" />
 </p>
 
@@ -120,17 +120,16 @@ Self-motivated **Machine Learning & AI Engineer** specializing in **FastAPI micr
 
 <div align="center">
 
+<!-- Reliable GitHub Contribution Streak -->
 <a href="https://github.com/myg-1107">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myg-1107&theme=tokyo-night&area=true&hide_border=true" width="95%" alt="Yaswanth's Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myg-1107&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
+<!-- Reliable Profile Overview Card -->
 <a href="https://github.com/myg-1107">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myg-1107&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Yaswanth's Stats" />
-</a>
-<a href="https://github.com/myg-1107">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myg-1107&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myg-1107&theme=tokyonight" width="95%" alt="GitHub Profile Summary" />
 </a>
 
 </div>
