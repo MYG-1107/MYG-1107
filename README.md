@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+AI+Engineer;FastAPI+%26+LLM+Orchestration;Full-Stack+Enterprise+Developer;MLOps+%26+Cloud+Microservices" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Profile Badges -->
+<!-- Profile Badges & Visitor Counter -->
 <a href="https://www.linkedin.com/in/my2004/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -19,7 +19,18 @@
 <a href="mailto:mallarapuyaswanth05@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=myg-1107&color=61dafb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/myg-1107">
+    <img src="https://github-profile-trophy.vercel.app/?username=myg-1107&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Yaswanth's GitHub Trophies" />
+  </a>
 </div>
 
 ---
@@ -116,20 +127,30 @@ Self-motivated **Machine Learning & AI Engineer** specializing in **FastAPI micr
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Analytics Cards
 
 <div align="center">
 
-<!-- Reliable GitHub Contribution Streak -->
+<!-- Streak Card -->
 <a href="https://github.com/myg-1107">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=myg-1107&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<!-- Reliable Profile Overview Card -->
+<!-- Profile Summary Details Card -->
 <a href="https://github.com/myg-1107">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myg-1107&theme=tokyonight" width="95%" alt="GitHub Profile Summary" />
+</a>
+
+<br/><br/>
+
+<!-- Top Languages & Productive Time Cards -->
+<a href="https://github.com/myg-1107">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=myg-1107&theme=tokyonight" width="47%" alt="Top Languages Card" />
+</a>
+<a href="https://github.com/myg-1107">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=myg-1107&theme=tokyonight&utcOffset=5.5" width="47%" alt="Productive Commit Hours Card" />
 </a>
 
 </div>
