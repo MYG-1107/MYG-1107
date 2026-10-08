@@ -344,38 +344,40 @@ I am also open to relevant international opportunities where my software enginee
 
 <br/><br/>
 
+## GitHub Activity & Analytics
+
+<div align="center">
+
+<!-- GitHub Streak -->
+<a href="https://github.com/myg-1107">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myg-1107&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<!-- Profile Summary -->
+<a href="https://github.com/myg-1107">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myg-1107&theme=tokyonight" width="95%" alt="GitHub Profile Summary" />
+</a>
+
+<br/><br/>
+
 <!-- Top Languages -->
 <a href="https://github.com/myg-1107">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=myg-1107&theme=tokyonight" width="47%" alt="Top Languages Card" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=myg-1107&layout=compact&theme=tokyonight&langs_count=8"
+    width="47%"
+    alt="Top Languages"
+  />
 </a>
 
 <!-- Productive Time -->
 <a href="https://github.com/myg-1107">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=myg-1107&theme=tokyonight&utcOffset=5.5" width="47%" alt="Productive Commit Hours Card" />
-</a>
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/my2004/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/myg-1107">
-  <img src="https://img.shields.io/badge/GitHub-MYG--1107-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://myg-1107.github.io/Portfolio-Mallarapu-Yaswanth">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-121013?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-</a>
-
-<a href="mailto:mallarapuyaswanth05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=myg-1107&theme=tokyonight&utcOffset=5.5"
+    width="47%"
+    alt="Productive Commit Hours"
+  />
 </a>
 
 </div>
