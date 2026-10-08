@@ -2,14 +2,16 @@
 
 # Hi there, I'm Mallarapu Yaswanth 👋
 
+### Software Engineer | AI & Machine Learning | Backend & Full-Stack Development | Map Visualization
+
 <!-- Animated Typing Header -->
 <a href="https://github.com/myg-1107">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Machine+Learning+%26+AI+Engineer;FastAPI+%26+LLM+Orchestration;Full-Stack+Enterprise+Developer;Map+Visualization+Engineer;MLOps+%26+Cloud+Microservices;AI+%2B+Web+Platform+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Software+Engineer;AI+%26+Machine+Learning;Python+%26+FastAPI;ASP.NET+Core+%26+REST+APIs;Full-Stack+Web+Development;Map+Visualization+%26+Geospatial+Web+Applications;Cloud+%26+Microservices" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Profile Badges & Visitor Counter -->
+<!-- Profile Links -->
 <a href="https://www.linkedin.com/in/my2004/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -25,246 +27,329 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## About
 
-<div align="center">
-  <a href="https://github.com/myg-1107">
-    <img src="https://github-profile-trophy.vercel.app/?username=myg-1107&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Yaswanth's GitHub Trophies" />
-  </a>
-</div>
+I am a **Computer Science student specializing in Artificial Intelligence and Machine Learning**, with more than two years of international remote internship and project experience.
 
----
+My experience covers **software engineering, machine learning, backend development, full-stack web applications, REST APIs, cloud technologies, and interactive map visualization**.
 
-### 📌 About Me
+I have worked with **Python, FastAPI, ASP.NET Core, JavaScript, TypeScript, React, MongoDB, SQL, Azure, AWS, Docker, and CI/CD**.
 
-Self-motivated **Machine Learning & AI Engineer**, **Full-Stack Developer**, and **Map Visualization Engineer** specializing in **FastAPI microservices**, **LLM orchestration**, **feature engineering pipelines**, **REST APIs**, **containerized application architectures**, and **interactive web applications**.
+I also have practical experience with **MapLibre GL JS, GeoJSON, and OpenStreetMap** for interactive map-based web applications, including markers, layers, popups, and filtering.
 
-Experienced in developing:
+Currently, I am working as an **ML Engineer Intern at Mealgrid in Norway**, where I work with FastAPI-based ML microservices, feature engineering, time-series data, deterministic AI algorithms, and containerized REST APIs.
 
-- 🤖 Machine Learning and AI solutions
-- 🧠 Generative AI and LLM-powered applications
-- ⚡ FastAPI and RESTful microservices
-- 💻 ASP.NET Core and full-stack enterprise applications
-- 🗺️ Interactive map visualization and geospatial web applications
-- ☁️ Azure and AWS cloud-based solutions
-- 🐳 Docker-based application deployments
-- 🔄 CI/CD and MLOps workflows
-- 🗄️ Database-driven enterprise platforms
-- 🌐 Responsive and interactive frontend applications
-
-I enjoy combining **AI, software engineering, cloud technologies, data, and modern web development** to build practical, scalable, and user-focused software solutions.
+I am interested in **software engineering and AI/ML opportunities in Norway and internationally**, including remote, hybrid, and relocation-based roles.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,fastapi,django,dotnet,react,nodejs,php,java,docker,azure,aws,mongodb,postgres,linux,git,github" />
-</p>
+### Machine Learning & AI
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **🧠 AI & Machine Learning** | PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, OpenCV, Pandas, NumPy, Feature Engineering, Predictive Analytics, Time-Series Analysis, Explainable AI (XAI), Computer Vision |
-| **🤖 Generative AI & LLMOps** | LangChain, LlamaIndex, OpenAI API, Anthropic (Claude), Gemini, Grok, GitHub Copilot, Agentic Workflows, Chain-of-Thought, ReAct Pattern, Prompt Looping |
-| **⚡ Backend & Web Frameworks** | Python, FastAPI, Django, C# (ASP.NET Core), JavaScript (ES6+), TypeScript, PHP, Java, ReactJS, Node.js, Streamlit |
-| **🔌 APIs & Architecture** | REST APIs, REST / OpenAPI, Swagger, OpenAPI Documentation, Microservices, FastAPI Services, ASP.NET Core Web APIs, Minimal APIs |
-| **🎨 Frontend & UI Development** | HTML5, CSS3, Responsive Web Design, JavaScript, TypeScript, ReactJS, Tailwind CSS, jQuery, AOS, SweetAlert2, Swiper |
-| **🗺️ Map Visualization & Geospatial** | MapLibre GL JS, GeoJSON, OpenStreetMap, Interactive Map Markers, Map Layers, Map Popups, Map Filtering |
-| **☁️ Cloud, DevOps & MLOps** | Microsoft Azure, Azure AI Services, Azure ML, Microsoft Azure Custom Vision, AWS Cloud Foundations, Docker, Docker Compose, CI/CD Pipelines, Streamlit Cloud, Render, Apache HTTP Server |
-| **🗄️ Databases & Data Architecture** | SQL Server, SQL, MongoDB Atlas, IndexedDB, Vector DBs, Pinecone, Milvus, Chroma |
-| **🔧 Development & Collaboration** | Git, GitHub, GitHub Copilot, API Development, Database Management, Production Deployment |
-| **🖥️ Web & Server Technologies** | Apache HTTP Server, Responsive Web Applications, RESTful Services, Containerized Applications |
+- Feature Engineering
+- Predictive Analytics
+- Time-Series Analysis
+- Explainable AI (XAI)
+- Computer Vision
+- Scikit-learn
+- PyTorch
+- TensorFlow
+- Keras
+- XGBoost
+- NumPy
+- Pandas
 
----
+### Generative AI & LLMOps
 
-### 💼 Work Experience
+- Agentic Workflows
+- Chain-of-Thought
+- ReAct Pattern
+- Prompt Looping
+- LangChain
+- LlamaIndex
+- OpenAI API
+- Anthropic (Claude)
+- Gemini
+- Grok
+- GitHub Copilot
 
-#### 🤖 **ML Engineer (Internship)** | *Mealgrid — Norway (Remote)*
-📅 `March 2026 – Present`
+### Backend, APIs & Web Frameworks
 
-* **Architected Microservices:** Built modular ML Advisory microservices using Python, FastAPI, and Pandas, engineering time-series feature pipelines across 4 distinct data streams.
-* **Latency Reduction:** Developed deterministic AI algorithms for trend detection & volatility scoring via Docker-containerized REST APIs integrated with Django backends, reducing inference latency by **35%**.
-* **CI/CD Automation:** Established automated CI/CD workflows to containerize deployment images, accelerating testing iteration speed by **2.5X**.
-* **Machine Learning Engineering:** Worked on feature engineering, trend analysis, predictive analytics, and deterministic AI advisory workflows.
-* **API Architecture:** Developed production-oriented REST APIs and modular services designed for integration with backend applications.
+- Python
+- FastAPI
+- Django
+- C# / ASP.NET Core
+- Minimal APIs
+- JavaScript (ES6+)
+- TypeScript
+- PHP
+- Java
+- Node.js
+- Streamlit
+- REST APIs
+- Microservices
+- OpenAPI
+- Swagger
 
-#### 💻 **AI Full Stack Engineer (Internship)** | *SITER Academy — Norway (Remote)*
-📅 `March 2024 – March 2026`
+### Frontend & Web Development
 
-* **Core Backend Architecture:** Engineered the EJITE journal management platform using ASP.NET Core Web APIs, Minimal APIs, PHP, and MongoDB Atlas, boosting query response speeds by **25%**.
-* **API Documentation & Security:** Implemented Swashbuckle/OpenAPI documentation and maintained production database security for 50,000+ records and Apache deployments.
-* **Frontend Development:** Designed interactive web interfaces using JavaScript and Tailwind CSS.
-* **Full-Stack Engineering:** Worked across frontend, backend, database, API, server, and deployment layers.
-* **Production Systems:** Contributed to deployment and maintenance of production web applications and academic technology platforms.
-* **Database Engineering:** Worked with MongoDB Atlas, SQL, APIs, and large-scale application data.
+- HTML5
+- CSS3
+- Responsive Web Design
+- JavaScript
+- TypeScript
+- ReactJS
+- Tailwind CSS
+- jQuery
+- AOS
+- SweetAlert2
+- Swiper
 
-#### 💻 **Full Stack Developer** | *SITER Academy — Norway*
-📅 `March 2025 – August 2025`
+### Map Visualization & Geospatial
 
-* Developed and maintained full-stack web applications using modern frontend and backend technologies.
-* Worked with JavaScript, web APIs, databases, and responsive web interfaces.
-* Supported production application development, deployment, maintenance, and troubleshooting.
-* Integrated frontend interfaces with backend APIs and database services.
+- MapLibre GL JS
+- GeoJSON
+- OpenStreetMap
+- Interactive Map Markers
+- Map Layers
+- Map Popups
+- Map Filtering
 
----
+### Cloud, DevOps & MLOps
 
-### 🚀 Featured Projects
+- Microsoft Azure
+- Azure AI Services
+- Azure ML
+- Azure Custom Vision
+- AWS Cloud Foundations
+- Docker
+- Docker Compose
+- CI/CD Pipelines
+- Streamlit Cloud
+- Render
+- Apache HTTP Server
 
-#### 1️⃣ **Bachelors Finance Manager**
+### Databases & Data Architecture
 
-* **Greedy Debt Settlement Algorithm:** Optimized peer-to-peer liabilities from $O(N^2)$ to an $O(N)$ minimum-cash-flow sequence with cent-level accuracy in Vanilla JavaScript.
-* **PDF & Persistence:** Built a zero-telemetry client-side tool utilizing CSS Paged Media (`@media print`) for browser-based A4 PDF exports and LocalStorage for user persistence.
-* **Frontend Engineering:** Developed a responsive browser-based financial management interface without requiring a backend database.
+- SQL Server
+- SQL
+- MongoDB Atlas
+- IndexedDB
+- Vector Databases
+- Pinecone
+- Milvus
+- Chroma
 
----
+### Development & Collaboration
 
-#### 2️⃣ **AI Model for Indian Dance Classification**
-
-* **Azure Custom Vision:** Deployed a real-time computer vision classifier categorizing 8 classical Indian dance forms using Microsoft Azure AI services.
-* **Web Integration:** Developed interactive web application interfaces to process real-time single-image predictions via RESTful API endpoints.
-* **Computer Vision:** Applied image classification techniques for recognition of Indian classical dance forms.
-* **Cloud AI:** Integrated Microsoft Azure AI services into the application workflow.
-
----
-
-#### 3️⃣ **Web-Based WebRTC Communication Service**
-
-* **Peer-to-Peer Voice:** Built a browser-based real-time voice call application leveraging WebRTC protocols for global audio connectivity.
-* **Cross-ISP Routing:** Integrated Metered API routing hosted on Render infrastructure to overcome cross-ISP network restrictions and ensure reliable call establishment.
-* **Real-Time Communication:** Implemented browser-based communication capabilities using WebRTC technologies.
-
----
-
-#### 4️⃣ **Norwegian Language Learning Application**
-
-* **Audio Translation Engine:** Built an interactive translation tool integrating Speech-to-Text and Text-to-Speech engines to assist English speakers in learning Norwegian through natural voice conversations.
-* **Language Technology:** Combined translation, speech recognition, and speech synthesis capabilities into an interactive learning experience.
-* **Interactive Learning:** Designed the application around conversational and voice-based language learning.
-
----
-
-#### 5️⃣ **EJITE – Journal Management Platform**
-
-* Built an academic journal management platform using **ASP.NET Core Web APIs**, **Minimal APIs**, **PHP**, and **MongoDB Atlas**.
-* Implemented **OpenAPI / Swagger documentation** using Swashbuckle.
-* Worked with production databases containing **50,000+ records**.
-* Developed interactive frontend interfaces using JavaScript and Tailwind CSS.
-* Supported Apache-based production deployments.
-* Contributed to backend architecture, database integration, API development, and frontend functionality.
-
----
-
-#### 6️⃣ **Map Visualization & Geospatial Applications**
-
-* Developed interactive map-based web interfaces using **MapLibre GL JS**.
-* Worked with **GeoJSON** data for geographical visualization.
-* Integrated **OpenStreetMap** mapping data.
-* Implemented interactive **map markers, map layers, popups, and filtering**.
-* Built responsive interfaces for map-based information visualization.
-* Worked with frontend technologies including **HTML5, CSS3, JavaScript, TypeScript, and responsive web design**.
-
----
-
-### 🌐 Production Systems & Platforms
-
-Contributed to the development, deployment, maintenance, and technical management of web-based platforms and academic technology systems.
-
-* 🌐 **EJITE**
-* 🌐 **SITER Academy**
-* 🌐 **ICETBDT**
-* 🌐 **ICA AIDT**
-* 🌐 Academic publishing and conference technology platforms
-
-### 🔧 Production Responsibilities
-
-* Server Administration
-* Apache HTTP Server Configuration
-* Web Application Deployment
-* Database Management
-* API Development and Integration
-* OpenAPI / Swagger Documentation
-* Security Maintenance
-* Production Troubleshooting
-* CI/CD Workflows
-* Cloud Deployment
-* Full-Stack Application Maintenance
+- Git
+- GitHub
+- GitHub Copilot
+- API Development
+- Database Management
+- RESTful Services
+- OpenAPI Documentation
+- Production Deployment
 
 ---
 
-### 🎓 Education
+## Work Experience
 
-| Institution | Field of Study | Score | Year |
+### ML Engineer Intern — Mealgrid, Norway
+**March 2026 – Present**
+
+- Built modular **ML advisory microservices** using Python, FastAPI, and Pandas.
+- Developed time-series feature engineering pipelines across four distinct data streams.
+- Developed deterministic AI algorithms for **trend detection and volatility scoring**.
+- Built Docker-containerized REST APIs integrated with Django backends.
+- Contributed to reducing inference latency by **35%**.
+- Established automated CI/CD workflows for containerized deployment images.
+- Improved testing iteration speed by **2.5×**.
+- Worked with machine learning, feature engineering, data processing, backend APIs, and containerized services.
+
+### AI Full Stack Engineer Intern — SITER Academy, Norway
+**March 2024 – March 2026**
+
+- Engineered the **EJITE journal management platform** using ASP.NET Core Web APIs, Minimal APIs, PHP, and MongoDB Atlas.
+- Contributed to improving query response performance by **25%**.
+- Implemented **Swashbuckle/OpenAPI documentation** for APIs.
+- Worked with production databases containing **50,000+ records**.
+- Contributed to database security and Apache-based deployments.
+- Developed interactive web interfaces using **JavaScript and Tailwind CSS**.
+- Worked across frontend, backend, database, API, server, and deployment components.
+- Contributed to production web application development and maintenance.
+- Worked with REST APIs, backend services, database integration, and web application deployment.
+
+---
+
+## Selected Projects
+
+### 1. Bachelor's Finance Manager
+
+- Developed a browser-based financial management application using Vanilla JavaScript.
+- Implemented a **greedy debt settlement algorithm** to optimize peer-to-peer liabilities.
+- Reduced the algorithmic approach from **O(N²)** to an **O(N)** minimum-cash-flow sequence.
+- Implemented cent-level calculation accuracy.
+- Added browser-based A4 PDF export using CSS Paged Media and `@media print`.
+- Implemented LocalStorage-based persistence.
+- Designed the application as a zero-telemetry client-side tool.
+
+---
+
+### 2. AI Model for Indian Dance Classification
+
+- Developed a computer vision application for classifying **8 classical Indian dance forms**.
+- Used **Microsoft Azure Custom Vision / Azure AI services** for model deployment.
+- Integrated the model with an interactive web application.
+- Implemented REST API-based image prediction functionality.
+- Worked with image classification and computer vision workflows.
+
+---
+
+### 3. Web-Based WebRTC Communication Service
+
+- Developed a browser-based real-time voice communication application using **WebRTC**.
+- Implemented peer-to-peer audio communication.
+- Integrated Metered API routing hosted on Render.
+- Worked on connection establishment across different network environments.
+- Built the application using browser-based real-time communication technologies.
+
+---
+
+### 4. Norwegian Language Learning Application
+
+- Developed an interactive language learning application for English speakers learning Norwegian.
+- Integrated **Speech-to-Text** functionality.
+- Integrated **Text-to-Speech** functionality.
+- Implemented translation capabilities.
+- Designed the application around interactive voice-based language learning.
+
+---
+
+### 5. EJITE Journal Management Platform
+
+- Developed and maintained components of an academic journal management platform.
+- Used **ASP.NET Core Web APIs, Minimal APIs, PHP, and MongoDB Atlas**.
+- Implemented **OpenAPI / Swagger** API documentation.
+- Worked with databases containing **50,000+ records**.
+- Developed frontend functionality using JavaScript and Tailwind CSS.
+- Worked with Apache-based deployments.
+- Contributed to backend APIs, database integration, frontend development, and production maintenance.
+
+---
+
+### 6. Map Visualization & Geospatial Web Applications
+
+- Developed interactive map-based web interfaces using **MapLibre GL JS**.
+- Worked with **GeoJSON** data for geographic visualization.
+- Integrated **OpenStreetMap** data.
+- Implemented interactive map markers.
+- Worked with map layers and map popups.
+- Implemented map filtering functionality.
+- Developed responsive web interfaces using HTML5, CSS3, JavaScript, and TypeScript.
+- Worked with API-driven web application components and interactive map interfaces.
+
+---
+
+## Education
+
+| Institution | Qualification | Result | Year |
 | :--- | :--- | :--- | :--- |
-| **Vaagdevi College of Engineering** | B.Tech in CSE (AI & ML) | **8.05 CGPA** | 2027 (Expected) |
-| **MJPTBCWRJC Station Ghanpur** | Intermediate (MPC) | **892 / 1000** | 2023 |
-| **MJPTBCWR School Kukatpally** | SSC (10th Class) | **10.0 CGPA** | 2021 |
+| **Vaagdevi College of Engineering** | B.Tech — Computer Science & Engineering (AI & ML) | **8.05 CGPA** | 2027 (Expected) |
+| **MJPTBCWRJC Station Ghanpur** | Intermediate — MPC | **892 / 1000** | 2023 |
+| **MJPTBCWR School Kukatpally** | SSC / 10th Class | **10.0 CGPA** | 2021 |
 | **CSCE Computer Education** | PGDCA | **818 / 900** | 2021 |
 
 ---
 
-### 📜 Certifications
+## Certifications
 
-* ☁️ **SITER Certified Microsoft Azure Cloud Developer** — *SITER Academy (Dec 2025)*
-* 🤖 **SITER Certified Generative AI Engineer** — *SITER Academy (Mar 2025)*
-* 🟧 **AWS Academy Graduate** — *AWS Academy Cloud Foundations (Jan 2025)*
-* 💻 **Software Engineer Certificate** — *HackerRank (Nov 2024)*
-* 🧠 **Getting Started with Artificial Intelligence** — *IBM SkillsBuild (Sep 2024)*
-* 📊 **Getting Started with Enterprise Data Science** — *IBM (Feb 2024)*
-* 🐍 **Python (Basics)** — *HackerRank (Feb 2024)*
-
----
-
-### 🏆 Honors & Awards
-
-* 📜 **Certificate of Appreciation** — SITER Academy, Norge for Organizing 1st ICETBDT Conference at Goa, India *(July 2026)*
-* 🥇 **Best Paper Award** — ICETETAMS 2026 Conference *(April 2026)*
-* 🎓 **5-Day AI Agents Intensive Course Badge** — Kaggle & Google *(Dec 2025)*
-* 🎤 **Tech Talk Speaker** — UTAS-Shinas *(Dec 2025)*
-* 📡 **53rd Wireless World Research Forum (WWRF'2025)** — BITS Pilani Hyderabad Campus *(Feb 2025)*
+- **SITER Certified Microsoft Azure Cloud Developer** — SITER Academy, December 2025
+- **SITER Certified Generative AI Engineer** — SITER Academy, March 2025
+- **AWS Academy Graduate — Cloud Foundations** — AWS Academy, January 2025
+- **Software Engineer Certificate** — HackerRank, November 2024
+- **Getting Started with Artificial Intelligence** — IBM SkillsBuild, September 2024
+- **Getting Started with Enterprise Data Science** — IBM, February 2024
+- **Python (Basics)** — HackerRank, February 2024
 
 ---
 
-### 🌍 Professional Interests
+## Honors & Awards
 
-I am particularly interested in opportunities involving:
-
-- 🤖 Machine Learning Engineering
-- 🧠 Artificial Intelligence
-- ✨ Generative AI & LLM Applications
-- ⚡ FastAPI & Python Backend Engineering
-- 💻 Full-Stack Software Engineering
-- 🗺️ Map Visualization & Geospatial Applications
-- ☁️ Cloud Engineering
-- 🔄 MLOps & DevOps
-- 🔌 API & Microservices Architecture
-- 📊 Data Engineering & Analytics
-- 🎓 EdTech & Academic Technology
-- 🔬 AI Research & Applied Machine Learning
+- **Certificate of Appreciation** — SITER Academy, Norge, for organizing the 1st ICETBDT Conference at Goa, India — July 2026
+- **Best Paper Award** — ICETETAMS 2026 Conference — April 2026
+- **5-Day AI Agents Intensive Course Badge** — Kaggle & Google — December 2025
+- **Tech Talk Speaker** — UTAS-Shinas — December 2025
+- **53rd Wireless World Research Forum (WWRF'2025)** — BITS Pilani Hyderabad Campus — February 2025
 
 ---
 
-### 📊 GitHub Activity & Analytics Cards
+## Professional Focus
+
+I am particularly interested in roles involving:
+
+- **Machine Learning Engineering**
+- **AI Engineering**
+- **Software Engineering**
+- **Backend Development**
+- **Full-Stack Development**
+- **Front-End Development**
+- **Map Visualization & Geospatial Web Applications**
+- **Cloud Engineering**
+- **Microservices & REST API Development**
+- **MLOps**
+- **Applied AI and Machine Learning**
+
+My preferred technical areas include **Python/FastAPI, ASP.NET Core, REST APIs, AI/ML, cloud platforms, full-stack web development, and interactive geospatial applications**.
+
+---
+
+## Norway & International Opportunities
+
+🇳🇴 **Open to opportunities in Norway**, including:
+
+- Remote positions
+- Hybrid positions
+- On-site positions
+- Relocation-based opportunities
+
+I am particularly interested in **Software Engineer, AI/ML Engineer, Backend Engineer, Full-Stack Developer, and Front-End / Map Visualization roles**.
+
+I am also open to relevant international opportunities where my software engineering and AI/ML background can contribute to practical technology projects.
+
+---
+
+## Languages
+
+**Working language:** English
+
+---
+
+## GitHub Activity & Analytics
 
 <div align="center">
 
-<!-- Streak Card -->
+<!-- GitHub Streak -->
 <a href="https://github.com/myg-1107">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=myg-1107&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<!-- Profile Summary Details Card -->
+<!-- Profile Summary -->
 <a href="https://github.com/myg-1107">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myg-1107&theme=tokyonight" width="95%" alt="GitHub Profile Summary" />
 </a>
 
 <br/><br/>
 
-<!-- Top Languages & Productive Time Cards -->
+<!-- Top Languages -->
 <a href="https://github.com/myg-1107">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=myg-1107&theme=tokyonight" width="47%" alt="Top Languages Card" />
 </a>
+
+<!-- Productive Time -->
 <a href="https://github.com/myg-1107">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=myg-1107&theme=tokyonight&utcOffset=5.5" width="47%" alt="Productive Commit Hours Card" />
 </a>
@@ -273,7 +358,7 @@ I am particularly interested in opportunities involving:
 
 ---
 
-### 📫 Let's Connect
+## Connect
 
 <div align="center">
 
@@ -283,6 +368,10 @@ I am particularly interested in opportunities involving:
 
 <a href="https://github.com/myg-1107">
   <img src="https://img.shields.io/badge/GitHub-MYG--1107-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://myg-1107.github.io/Portfolio-Mallarapu-Yaswanth">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-121013?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
 </a>
 
 <a href="mailto:mallarapuyaswanth05@gmail.com">
@@ -295,10 +384,8 @@ I am particularly interested in opportunities involving:
 
 <div align="center">
 
-📍 **Location:** Khammam, Hyderabad - Telangana, India
+**Based in Telangana, India 🇮🇳 | Open to Norway 🇳🇴 and international opportunities**
 
-💼 **Work Preferences:** Open to worldwide remote work and on-site positions across India.
-
-🌍 **Professional Focus:** Machine Learning • AI Engineering • Full-Stack Development • Map Visualization • Cloud • MLOps • Microservices
+**Software Engineering • AI/ML • Backend • Full-Stack • Map Visualization • Cloud • Microservices**
 
 </div>
