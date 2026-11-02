@@ -386,7 +386,7 @@ I am also open to relevant international opportunities where my software enginee
 
 <div align="center">
 
-**Based in Telangana, India 🇮🇳 | Open to Norway 🇳🇴 and international opportunities**
+**Based in Telangana, India  | Open to Norway and international opportunities**
 
 **Software Engineering • AI/ML • Backend • Full-Stack • Map Visualization • Cloud • Microservices**
 
